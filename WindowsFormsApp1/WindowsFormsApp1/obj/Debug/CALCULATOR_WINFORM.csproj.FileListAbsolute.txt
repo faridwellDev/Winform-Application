@@ -1,0 +1,11 @@
+C:\C#\ASP.NET(freeCodeCamp)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\C#\ASP.NET(freeCodeCamp)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\C#\ASP.NET(freeCodeCamp)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\C#\ASP.NET(freeCodeCamp)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CALCULATOR_WINFORM.csproj.AssemblyReference.cache
+C:\C#\ASP.NET(freeCodeCamp)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CALCULATOR_WINFORM.csproj.SuggestedBindingRedirects.cache
+C:\C#\ASP.NET(freeCodeCamp)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\C#\ASP.NET(freeCodeCamp)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\C#\ASP.NET(freeCodeCamp)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CALCULATOR_WINFORM.csproj.GenerateResource.cache
+C:\C#\ASP.NET(freeCodeCamp)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CALCULATOR_WINFORM.csproj.CoreCompileInputs.cache
+C:\C#\ASP.NET(freeCodeCamp)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\C#\ASP.NET(freeCodeCamp)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,11 @@
+C:\C#\ASP.NET(freeCodeCamp)\CHECK_BOX\CHECK_BOX\bin\Debug\CHECK_BOX.exe.config
+C:\C#\ASP.NET(freeCodeCamp)\CHECK_BOX\CHECK_BOX\bin\Debug\CHECK_BOX.exe
+C:\C#\ASP.NET(freeCodeCamp)\CHECK_BOX\CHECK_BOX\bin\Debug\CHECK_BOX.pdb
+C:\C#\ASP.NET(freeCodeCamp)\CHECK_BOX\CHECK_BOX\obj\Debug\CHECK_BOX.csproj.AssemblyReference.cache
+C:\C#\ASP.NET(freeCodeCamp)\CHECK_BOX\CHECK_BOX\obj\Debug\CHECK_BOX.csproj.SuggestedBindingRedirects.cache
+C:\C#\ASP.NET(freeCodeCamp)\CHECK_BOX\CHECK_BOX\obj\Debug\CHECK_BOX.Form1.resources
+C:\C#\ASP.NET(freeCodeCamp)\CHECK_BOX\CHECK_BOX\obj\Debug\CHECK_BOX.Properties.Resources.resources
+C:\C#\ASP.NET(freeCodeCamp)\CHECK_BOX\CHECK_BOX\obj\Debug\CHECK_BOX.csproj.GenerateResource.cache
+C:\C#\ASP.NET(freeCodeCamp)\CHECK_BOX\CHECK_BOX\obj\Debug\CHECK_BOX.csproj.CoreCompileInputs.cache
+C:\C#\ASP.NET(freeCodeCamp)\CHECK_BOX\CHECK_BOX\obj\Debug\CHECK_BOX.exe
+C:\C#\ASP.NET(freeCodeCamp)\CHECK_BOX\CHECK_BOX\obj\Debug\CHECK_BOX.pdb

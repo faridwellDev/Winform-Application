@@ -1,0 +1,11 @@
+C:\C#\ASP.NET(freeCodeCamp)\COMBO_BOX\COMBO_BOX\bin\Debug\COMBO_BOX.exe.config
+C:\C#\ASP.NET(freeCodeCamp)\COMBO_BOX\COMBO_BOX\bin\Debug\COMBO_BOX.exe
+C:\C#\ASP.NET(freeCodeCamp)\COMBO_BOX\COMBO_BOX\bin\Debug\COMBO_BOX.pdb
+C:\C#\ASP.NET(freeCodeCamp)\COMBO_BOX\COMBO_BOX\obj\Debug\COMBO_BOX.csproj.AssemblyReference.cache
+C:\C#\ASP.NET(freeCodeCamp)\COMBO_BOX\COMBO_BOX\obj\Debug\COMBO_BOX.csproj.SuggestedBindingRedirects.cache
+C:\C#\ASP.NET(freeCodeCamp)\COMBO_BOX\COMBO_BOX\obj\Debug\COMBO_BOX.MyComboBox.resources
+C:\C#\ASP.NET(freeCodeCamp)\COMBO_BOX\COMBO_BOX\obj\Debug\COMBO_BOX.Properties.Resources.resources
+C:\C#\ASP.NET(freeCodeCamp)\COMBO_BOX\COMBO_BOX\obj\Debug\COMBO_BOX.csproj.GenerateResource.cache
+C:\C#\ASP.NET(freeCodeCamp)\COMBO_BOX\COMBO_BOX\obj\Debug\COMBO_BOX.csproj.CoreCompileInputs.cache
+C:\C#\ASP.NET(freeCodeCamp)\COMBO_BOX\COMBO_BOX\obj\Debug\COMBO_BOX.exe
+C:\C#\ASP.NET(freeCodeCamp)\COMBO_BOX\COMBO_BOX\obj\Debug\COMBO_BOX.pdb

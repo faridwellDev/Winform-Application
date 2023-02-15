@@ -1,0 +1,11 @@
+C:\C#\Winform Applications\DATE_AND_TIME\DATE_AND_TIME\bin\Debug\DATE_AND_TIME.exe.config
+C:\C#\Winform Applications\DATE_AND_TIME\DATE_AND_TIME\bin\Debug\DATE_AND_TIME.exe
+C:\C#\Winform Applications\DATE_AND_TIME\DATE_AND_TIME\bin\Debug\DATE_AND_TIME.pdb
+C:\C#\Winform Applications\DATE_AND_TIME\DATE_AND_TIME\obj\Debug\DATE_AND_TIME.csproj.AssemblyReference.cache
+C:\C#\Winform Applications\DATE_AND_TIME\DATE_AND_TIME\obj\Debug\DATE_AND_TIME.csproj.SuggestedBindingRedirects.cache
+C:\C#\Winform Applications\DATE_AND_TIME\DATE_AND_TIME\obj\Debug\DATE_AND_TIME.Form1.resources
+C:\C#\Winform Applications\DATE_AND_TIME\DATE_AND_TIME\obj\Debug\DATE_AND_TIME.Properties.Resources.resources
+C:\C#\Winform Applications\DATE_AND_TIME\DATE_AND_TIME\obj\Debug\DATE_AND_TIME.csproj.GenerateResource.cache
+C:\C#\Winform Applications\DATE_AND_TIME\DATE_AND_TIME\obj\Debug\DATE_AND_TIME.csproj.CoreCompileInputs.cache
+C:\C#\Winform Applications\DATE_AND_TIME\DATE_AND_TIME\obj\Debug\DATE_AND_TIME.exe
+C:\C#\Winform Applications\DATE_AND_TIME\DATE_AND_TIME\obj\Debug\DATE_AND_TIME.pdb

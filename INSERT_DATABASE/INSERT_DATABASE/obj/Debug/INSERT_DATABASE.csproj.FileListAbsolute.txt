@@ -1,0 +1,11 @@
+C:\C#\Winform Applications\INSERT_DATABASE\INSERT_DATABASE\bin\Debug\INSERT_DATABASE.exe.config
+C:\C#\Winform Applications\INSERT_DATABASE\INSERT_DATABASE\bin\Debug\INSERT_DATABASE.exe
+C:\C#\Winform Applications\INSERT_DATABASE\INSERT_DATABASE\bin\Debug\INSERT_DATABASE.pdb
+C:\C#\Winform Applications\INSERT_DATABASE\INSERT_DATABASE\obj\Debug\INSERT_DATABASE.csproj.AssemblyReference.cache
+C:\C#\Winform Applications\INSERT_DATABASE\INSERT_DATABASE\obj\Debug\INSERT_DATABASE.csproj.SuggestedBindingRedirects.cache
+C:\C#\Winform Applications\INSERT_DATABASE\INSERT_DATABASE\obj\Debug\INSERT_DATABASE.Form1.resources
+C:\C#\Winform Applications\INSERT_DATABASE\INSERT_DATABASE\obj\Debug\INSERT_DATABASE.Properties.Resources.resources
+C:\C#\Winform Applications\INSERT_DATABASE\INSERT_DATABASE\obj\Debug\INSERT_DATABASE.csproj.GenerateResource.cache
+C:\C#\Winform Applications\INSERT_DATABASE\INSERT_DATABASE\obj\Debug\INSERT_DATABASE.csproj.CoreCompileInputs.cache
+C:\C#\Winform Applications\INSERT_DATABASE\INSERT_DATABASE\obj\Debug\INSERT_DATABASE.exe
+C:\C#\Winform Applications\INSERT_DATABASE\INSERT_DATABASE\obj\Debug\INSERT_DATABASE.pdb

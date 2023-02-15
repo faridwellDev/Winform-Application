@@ -1,0 +1,22 @@
+C:\C#\ASP.NET(freeCodeCamp)\RADIO_BUTTON\RADIO_BUTTON\bin\Debug\RADIO_BUTTON.exe.config
+C:\C#\ASP.NET(freeCodeCamp)\RADIO_BUTTON\RADIO_BUTTON\bin\Debug\RADIO_BUTTON.exe
+C:\C#\ASP.NET(freeCodeCamp)\RADIO_BUTTON\RADIO_BUTTON\bin\Debug\RADIO_BUTTON.pdb
+C:\C#\ASP.NET(freeCodeCamp)\RADIO_BUTTON\RADIO_BUTTON\obj\Debug\RADIO_BUTTON.csproj.AssemblyReference.cache
+C:\C#\ASP.NET(freeCodeCamp)\RADIO_BUTTON\RADIO_BUTTON\obj\Debug\RADIO_BUTTON.csproj.SuggestedBindingRedirects.cache
+C:\C#\ASP.NET(freeCodeCamp)\RADIO_BUTTON\RADIO_BUTTON\obj\Debug\RADIO_BUTTON.Form1.resources
+C:\C#\ASP.NET(freeCodeCamp)\RADIO_BUTTON\RADIO_BUTTON\obj\Debug\RADIO_BUTTON.Properties.Resources.resources
+C:\C#\ASP.NET(freeCodeCamp)\RADIO_BUTTON\RADIO_BUTTON\obj\Debug\RADIO_BUTTON.csproj.GenerateResource.cache
+C:\C#\ASP.NET(freeCodeCamp)\RADIO_BUTTON\RADIO_BUTTON\obj\Debug\RADIO_BUTTON.csproj.CoreCompileInputs.cache
+C:\C#\ASP.NET(freeCodeCamp)\RADIO_BUTTON\RADIO_BUTTON\obj\Debug\RADIO_BUTTON.exe
+C:\C#\ASP.NET(freeCodeCamp)\RADIO_BUTTON\RADIO_BUTTON\obj\Debug\RADIO_BUTTON.pdb
+C:\C#\Winform Applications\RADIO_BUTTON\RADIO_BUTTON\bin\Debug\RADIO_BUTTON.exe.config
+C:\C#\Winform Applications\RADIO_BUTTON\RADIO_BUTTON\bin\Debug\RADIO_BUTTON.exe
+C:\C#\Winform Applications\RADIO_BUTTON\RADIO_BUTTON\bin\Debug\RADIO_BUTTON.pdb
+C:\C#\Winform Applications\RADIO_BUTTON\RADIO_BUTTON\obj\Debug\RADIO_BUTTON.csproj.AssemblyReference.cache
+C:\C#\Winform Applications\RADIO_BUTTON\RADIO_BUTTON\obj\Debug\RADIO_BUTTON.csproj.SuggestedBindingRedirects.cache
+C:\C#\Winform Applications\RADIO_BUTTON\RADIO_BUTTON\obj\Debug\RADIO_BUTTON.Form1.resources
+C:\C#\Winform Applications\RADIO_BUTTON\RADIO_BUTTON\obj\Debug\RADIO_BUTTON.Properties.Resources.resources
+C:\C#\Winform Applications\RADIO_BUTTON\RADIO_BUTTON\obj\Debug\RADIO_BUTTON.csproj.GenerateResource.cache
+C:\C#\Winform Applications\RADIO_BUTTON\RADIO_BUTTON\obj\Debug\RADIO_BUTTON.csproj.CoreCompileInputs.cache
+C:\C#\Winform Applications\RADIO_BUTTON\RADIO_BUTTON\obj\Debug\RADIO_BUTTON.exe
+C:\C#\Winform Applications\RADIO_BUTTON\RADIO_BUTTON\obj\Debug\RADIO_BUTTON.pdb

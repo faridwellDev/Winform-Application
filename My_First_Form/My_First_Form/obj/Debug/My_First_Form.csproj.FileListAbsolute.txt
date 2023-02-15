@@ -1,0 +1,11 @@
+C:\C#\ASP.NET(freeCodeCamp)\My_First_Form\My_First_Form\bin\Debug\My_First_Form.exe.config
+C:\C#\ASP.NET(freeCodeCamp)\My_First_Form\My_First_Form\bin\Debug\My_First_Form.exe
+C:\C#\ASP.NET(freeCodeCamp)\My_First_Form\My_First_Form\bin\Debug\My_First_Form.pdb
+C:\C#\ASP.NET(freeCodeCamp)\My_First_Form\My_First_Form\obj\Debug\My_First_Form.csproj.AssemblyReference.cache
+C:\C#\ASP.NET(freeCodeCamp)\My_First_Form\My_First_Form\obj\Debug\My_First_Form.csproj.SuggestedBindingRedirects.cache
+C:\C#\ASP.NET(freeCodeCamp)\My_First_Form\My_First_Form\obj\Debug\My_First_Form.Properties.Resources.resources
+C:\C#\ASP.NET(freeCodeCamp)\My_First_Form\My_First_Form\obj\Debug\My_First_Form.csproj.GenerateResource.cache
+C:\C#\ASP.NET(freeCodeCamp)\My_First_Form\My_First_Form\obj\Debug\My_First_Form.csproj.CoreCompileInputs.cache
+C:\C#\ASP.NET(freeCodeCamp)\My_First_Form\My_First_Form\obj\Debug\My_First_Form.exe
+C:\C#\ASP.NET(freeCodeCamp)\My_First_Form\My_First_Form\obj\Debug\My_First_Form.pdb
+C:\C#\ASP.NET(freeCodeCamp)\My_First_Form\My_First_Form\obj\Debug\My_First_Form.Form1.resources

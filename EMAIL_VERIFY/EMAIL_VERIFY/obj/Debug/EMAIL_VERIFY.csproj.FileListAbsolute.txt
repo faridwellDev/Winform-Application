@@ -1,0 +1,11 @@
+C:\C#\ASP.NET(freeCodeCamp)\EMAIL_VERIFY\EMAIL_VERIFY\bin\Debug\EMAIL_VERIFY.exe.config
+C:\C#\ASP.NET(freeCodeCamp)\EMAIL_VERIFY\EMAIL_VERIFY\bin\Debug\EMAIL_VERIFY.exe
+C:\C#\ASP.NET(freeCodeCamp)\EMAIL_VERIFY\EMAIL_VERIFY\bin\Debug\EMAIL_VERIFY.pdb
+C:\C#\ASP.NET(freeCodeCamp)\EMAIL_VERIFY\EMAIL_VERIFY\obj\Debug\EMAIL_VERIFY.csproj.AssemblyReference.cache
+C:\C#\ASP.NET(freeCodeCamp)\EMAIL_VERIFY\EMAIL_VERIFY\obj\Debug\EMAIL_VERIFY.csproj.SuggestedBindingRedirects.cache
+C:\C#\ASP.NET(freeCodeCamp)\EMAIL_VERIFY\EMAIL_VERIFY\obj\Debug\EMAIL_VERIFY.Form1.resources
+C:\C#\ASP.NET(freeCodeCamp)\EMAIL_VERIFY\EMAIL_VERIFY\obj\Debug\EMAIL_VERIFY.Properties.Resources.resources
+C:\C#\ASP.NET(freeCodeCamp)\EMAIL_VERIFY\EMAIL_VERIFY\obj\Debug\EMAIL_VERIFY.csproj.GenerateResource.cache
+C:\C#\ASP.NET(freeCodeCamp)\EMAIL_VERIFY\EMAIL_VERIFY\obj\Debug\EMAIL_VERIFY.csproj.CoreCompileInputs.cache
+C:\C#\ASP.NET(freeCodeCamp)\EMAIL_VERIFY\EMAIL_VERIFY\obj\Debug\EMAIL_VERIFY.exe
+C:\C#\ASP.NET(freeCodeCamp)\EMAIL_VERIFY\EMAIL_VERIFY\obj\Debug\EMAIL_VERIFY.pdb

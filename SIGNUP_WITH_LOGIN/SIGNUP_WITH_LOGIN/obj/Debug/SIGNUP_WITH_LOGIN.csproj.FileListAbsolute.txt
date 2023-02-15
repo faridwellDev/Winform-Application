@@ -1,0 +1,12 @@
+C:\C#\Winform Applications\SIGNUP_WITH_LOGIN\SIGNUP_WITH_LOGIN\bin\Debug\SIGNUP_WITH_LOGIN.exe.config
+C:\C#\Winform Applications\SIGNUP_WITH_LOGIN\SIGNUP_WITH_LOGIN\bin\Debug\SIGNUP_WITH_LOGIN.exe
+C:\C#\Winform Applications\SIGNUP_WITH_LOGIN\SIGNUP_WITH_LOGIN\bin\Debug\SIGNUP_WITH_LOGIN.pdb
+C:\C#\Winform Applications\SIGNUP_WITH_LOGIN\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.csproj.AssemblyReference.cache
+C:\C#\Winform Applications\SIGNUP_WITH_LOGIN\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.csproj.SuggestedBindingRedirects.cache
+C:\C#\Winform Applications\SIGNUP_WITH_LOGIN\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.Login.resources
+C:\C#\Winform Applications\SIGNUP_WITH_LOGIN\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.Properties.Resources.resources
+C:\C#\Winform Applications\SIGNUP_WITH_LOGIN\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.SignUp.resources
+C:\C#\Winform Applications\SIGNUP_WITH_LOGIN\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.csproj.GenerateResource.cache
+C:\C#\Winform Applications\SIGNUP_WITH_LOGIN\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.csproj.CoreCompileInputs.cache
+C:\C#\Winform Applications\SIGNUP_WITH_LOGIN\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.exe
+C:\C#\Winform Applications\SIGNUP_WITH_LOGIN\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.pdb

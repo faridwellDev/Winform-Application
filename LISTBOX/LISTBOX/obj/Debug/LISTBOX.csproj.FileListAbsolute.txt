@@ -1,0 +1,11 @@
+C:\C#\ASP.NET(freeCodeCamp)\LISTBOX\LISTBOX\bin\Debug\LISTBOX.exe.config
+C:\C#\ASP.NET(freeCodeCamp)\LISTBOX\LISTBOX\bin\Debug\LISTBOX.exe
+C:\C#\ASP.NET(freeCodeCamp)\LISTBOX\LISTBOX\bin\Debug\LISTBOX.pdb
+C:\C#\ASP.NET(freeCodeCamp)\LISTBOX\LISTBOX\obj\Debug\LISTBOX.csproj.AssemblyReference.cache
+C:\C#\ASP.NET(freeCodeCamp)\LISTBOX\LISTBOX\obj\Debug\LISTBOX.csproj.SuggestedBindingRedirects.cache
+C:\C#\ASP.NET(freeCodeCamp)\LISTBOX\LISTBOX\obj\Debug\LISTBOX.Properties.Resources.resources
+C:\C#\ASP.NET(freeCodeCamp)\LISTBOX\LISTBOX\obj\Debug\LISTBOX.csproj.GenerateResource.cache
+C:\C#\ASP.NET(freeCodeCamp)\LISTBOX\LISTBOX\obj\Debug\LISTBOX.csproj.CoreCompileInputs.cache
+C:\C#\ASP.NET(freeCodeCamp)\LISTBOX\LISTBOX\obj\Debug\LISTBOX.exe
+C:\C#\ASP.NET(freeCodeCamp)\LISTBOX\LISTBOX\obj\Debug\LISTBOX.pdb
+C:\C#\ASP.NET(freeCodeCamp)\LISTBOX\LISTBOX\obj\Debug\LISTBOX.ListBox.resources

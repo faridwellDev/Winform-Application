@@ -1,0 +1,11 @@
+C:\C#\Winform Applications\MOUSE_HOVER\MOUSE_HOVER\bin\Debug\MOUSE_HOVER.exe.config
+C:\C#\Winform Applications\MOUSE_HOVER\MOUSE_HOVER\bin\Debug\MOUSE_HOVER.exe
+C:\C#\Winform Applications\MOUSE_HOVER\MOUSE_HOVER\bin\Debug\MOUSE_HOVER.pdb
+C:\C#\Winform Applications\MOUSE_HOVER\MOUSE_HOVER\obj\Debug\MOUSE_HOVER.csproj.AssemblyReference.cache
+C:\C#\Winform Applications\MOUSE_HOVER\MOUSE_HOVER\obj\Debug\MOUSE_HOVER.csproj.SuggestedBindingRedirects.cache
+C:\C#\Winform Applications\MOUSE_HOVER\MOUSE_HOVER\obj\Debug\MOUSE_HOVER.Form1.resources
+C:\C#\Winform Applications\MOUSE_HOVER\MOUSE_HOVER\obj\Debug\MOUSE_HOVER.Properties.Resources.resources
+C:\C#\Winform Applications\MOUSE_HOVER\MOUSE_HOVER\obj\Debug\MOUSE_HOVER.csproj.GenerateResource.cache
+C:\C#\Winform Applications\MOUSE_HOVER\MOUSE_HOVER\obj\Debug\MOUSE_HOVER.csproj.CoreCompileInputs.cache
+C:\C#\Winform Applications\MOUSE_HOVER\MOUSE_HOVER\obj\Debug\MOUSE_HOVER.exe
+C:\C#\Winform Applications\MOUSE_HOVER\MOUSE_HOVER\obj\Debug\MOUSE_HOVER.pdb

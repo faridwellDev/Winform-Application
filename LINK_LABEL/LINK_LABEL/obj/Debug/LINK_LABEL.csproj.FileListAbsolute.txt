@@ -1,0 +1,12 @@
+C:\C#\ASP.NET(freeCodeCamp)\LINK_LABEL\LINK_LABEL\bin\Debug\LINK_LABEL.exe.config
+C:\C#\ASP.NET(freeCodeCamp)\LINK_LABEL\LINK_LABEL\bin\Debug\LINK_LABEL.exe
+C:\C#\ASP.NET(freeCodeCamp)\LINK_LABEL\LINK_LABEL\bin\Debug\LINK_LABEL.pdb
+C:\C#\ASP.NET(freeCodeCamp)\LINK_LABEL\LINK_LABEL\obj\Debug\LINK_LABEL.csproj.AssemblyReference.cache
+C:\C#\ASP.NET(freeCodeCamp)\LINK_LABEL\LINK_LABEL\obj\Debug\LINK_LABEL.csproj.SuggestedBindingRedirects.cache
+C:\C#\ASP.NET(freeCodeCamp)\LINK_LABEL\LINK_LABEL\obj\Debug\LINK_LABEL.Form1.resources
+C:\C#\ASP.NET(freeCodeCamp)\LINK_LABEL\LINK_LABEL\obj\Debug\LINK_LABEL.Properties.Resources.resources
+C:\C#\ASP.NET(freeCodeCamp)\LINK_LABEL\LINK_LABEL\obj\Debug\LINK_LABEL.csproj.GenerateResource.cache
+C:\C#\ASP.NET(freeCodeCamp)\LINK_LABEL\LINK_LABEL\obj\Debug\LINK_LABEL.csproj.CoreCompileInputs.cache
+C:\C#\ASP.NET(freeCodeCamp)\LINK_LABEL\LINK_LABEL\obj\Debug\LINK_LABEL.exe
+C:\C#\ASP.NET(freeCodeCamp)\LINK_LABEL\LINK_LABEL\obj\Debug\LINK_LABEL.pdb
+C:\C#\ASP.NET(freeCodeCamp)\LINK_LABEL\LINK_LABEL\obj\Debug\LINK_LABEL.Form2.resources

@@ -1,0 +1,22 @@
+C:\C#\ASP.NET(freeCodeCamp)\UPDATE_LIST_BOX\UPDATE_LIST_BOX\bin\Debug\UPDATE_LIST_BOX.exe.config
+C:\C#\ASP.NET(freeCodeCamp)\UPDATE_LIST_BOX\UPDATE_LIST_BOX\bin\Debug\UPDATE_LIST_BOX.exe
+C:\C#\ASP.NET(freeCodeCamp)\UPDATE_LIST_BOX\UPDATE_LIST_BOX\bin\Debug\UPDATE_LIST_BOX.pdb
+C:\C#\ASP.NET(freeCodeCamp)\UPDATE_LIST_BOX\UPDATE_LIST_BOX\obj\Debug\UPDATE_LIST_BOX.csproj.AssemblyReference.cache
+C:\C#\ASP.NET(freeCodeCamp)\UPDATE_LIST_BOX\UPDATE_LIST_BOX\obj\Debug\UPDATE_LIST_BOX.csproj.SuggestedBindingRedirects.cache
+C:\C#\ASP.NET(freeCodeCamp)\UPDATE_LIST_BOX\UPDATE_LIST_BOX\obj\Debug\UPDATE_LIST_BOX.Form1.resources
+C:\C#\ASP.NET(freeCodeCamp)\UPDATE_LIST_BOX\UPDATE_LIST_BOX\obj\Debug\UPDATE_LIST_BOX.Properties.Resources.resources
+C:\C#\ASP.NET(freeCodeCamp)\UPDATE_LIST_BOX\UPDATE_LIST_BOX\obj\Debug\UPDATE_LIST_BOX.csproj.GenerateResource.cache
+C:\C#\ASP.NET(freeCodeCamp)\UPDATE_LIST_BOX\UPDATE_LIST_BOX\obj\Debug\UPDATE_LIST_BOX.csproj.CoreCompileInputs.cache
+C:\C#\ASP.NET(freeCodeCamp)\UPDATE_LIST_BOX\UPDATE_LIST_BOX\obj\Debug\UPDATE_LIST_BOX.exe
+C:\C#\ASP.NET(freeCodeCamp)\UPDATE_LIST_BOX\UPDATE_LIST_BOX\obj\Debug\UPDATE_LIST_BOX.pdb
+C:\C#\Winform Applications\UPDATE_LIST_BOX\UPDATE_LIST_BOX\bin\Debug\UPDATE_LIST_BOX.exe.config
+C:\C#\Winform Applications\UPDATE_LIST_BOX\UPDATE_LIST_BOX\bin\Debug\UPDATE_LIST_BOX.exe
+C:\C#\Winform Applications\UPDATE_LIST_BOX\UPDATE_LIST_BOX\bin\Debug\UPDATE_LIST_BOX.pdb
+C:\C#\Winform Applications\UPDATE_LIST_BOX\UPDATE_LIST_BOX\obj\Debug\UPDATE_LIST_BOX.csproj.AssemblyReference.cache
+C:\C#\Winform Applications\UPDATE_LIST_BOX\UPDATE_LIST_BOX\obj\Debug\UPDATE_LIST_BOX.csproj.SuggestedBindingRedirects.cache
+C:\C#\Winform Applications\UPDATE_LIST_BOX\UPDATE_LIST_BOX\obj\Debug\UPDATE_LIST_BOX.Form1.resources
+C:\C#\Winform Applications\UPDATE_LIST_BOX\UPDATE_LIST_BOX\obj\Debug\UPDATE_LIST_BOX.Properties.Resources.resources
+C:\C#\Winform Applications\UPDATE_LIST_BOX\UPDATE_LIST_BOX\obj\Debug\UPDATE_LIST_BOX.csproj.GenerateResource.cache
+C:\C#\Winform Applications\UPDATE_LIST_BOX\UPDATE_LIST_BOX\obj\Debug\UPDATE_LIST_BOX.csproj.CoreCompileInputs.cache
+C:\C#\Winform Applications\UPDATE_LIST_BOX\UPDATE_LIST_BOX\obj\Debug\UPDATE_LIST_BOX.exe
+C:\C#\Winform Applications\UPDATE_LIST_BOX\UPDATE_LIST_BOX\obj\Debug\UPDATE_LIST_BOX.pdb

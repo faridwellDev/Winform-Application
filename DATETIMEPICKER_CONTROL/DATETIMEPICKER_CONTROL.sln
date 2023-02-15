@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATETIMEPICKER_CONTROL", "DATETIMEPICKER_CONTROL\DATETIMEPICKER_CONTROL.csproj", "{0C7D8DE2-28A3-4D3E-9C26-8BF384AF6517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C7D8DE2-28A3-4D3E-9C26-8BF384AF6517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7D8DE2-28A3-4D3E-9C26-8BF384AF6517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7D8DE2-28A3-4D3E-9C26-8BF384AF6517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7D8DE2-28A3-4D3E-9C26-8BF384AF6517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DCE2D37-FAD0-423A-A9C8-9F7751B5B210}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\C#\Winform Applications\TABLE_LAYOUT\TABLE_LAYOUT\bin\Debug\TABLE_LAYOUT.exe.config
+C:\C#\Winform Applications\TABLE_LAYOUT\TABLE_LAYOUT\bin\Debug\TABLE_LAYOUT.exe
+C:\C#\Winform Applications\TABLE_LAYOUT\TABLE_LAYOUT\bin\Debug\TABLE_LAYOUT.pdb
+C:\C#\Winform Applications\TABLE_LAYOUT\TABLE_LAYOUT\obj\Debug\TABLE_LAYOUT.csproj.AssemblyReference.cache
+C:\C#\Winform Applications\TABLE_LAYOUT\TABLE_LAYOUT\obj\Debug\TABLE_LAYOUT.csproj.SuggestedBindingRedirects.cache
+C:\C#\Winform Applications\TABLE_LAYOUT\TABLE_LAYOUT\obj\Debug\TABLE_LAYOUT.Form1.resources
+C:\C#\Winform Applications\TABLE_LAYOUT\TABLE_LAYOUT\obj\Debug\TABLE_LAYOUT.Properties.Resources.resources
+C:\C#\Winform Applications\TABLE_LAYOUT\TABLE_LAYOUT\obj\Debug\TABLE_LAYOUT.csproj.GenerateResource.cache
+C:\C#\Winform Applications\TABLE_LAYOUT\TABLE_LAYOUT\obj\Debug\TABLE_LAYOUT.csproj.CoreCompileInputs.cache
+C:\C#\Winform Applications\TABLE_LAYOUT\TABLE_LAYOUT\obj\Debug\TABLE_LAYOUT.exe
+C:\C#\Winform Applications\TABLE_LAYOUT\TABLE_LAYOUT\obj\Debug\TABLE_LAYOUT.pdb
