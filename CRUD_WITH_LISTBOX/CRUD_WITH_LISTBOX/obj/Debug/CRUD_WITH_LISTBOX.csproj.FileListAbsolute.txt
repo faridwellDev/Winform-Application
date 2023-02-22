@@ -1,0 +1,11 @@
+C:\C#\Winform Applications\CRUD_WITH_LISTBOX\CRUD_WITH_LISTBOX\bin\Debug\CRUD_WITH_LISTBOX.exe.config
+C:\C#\Winform Applications\CRUD_WITH_LISTBOX\CRUD_WITH_LISTBOX\bin\Debug\CRUD_WITH_LISTBOX.exe
+C:\C#\Winform Applications\CRUD_WITH_LISTBOX\CRUD_WITH_LISTBOX\bin\Debug\CRUD_WITH_LISTBOX.pdb
+C:\C#\Winform Applications\CRUD_WITH_LISTBOX\CRUD_WITH_LISTBOX\obj\Debug\CRUD_WITH_LISTBOX.csproj.AssemblyReference.cache
+C:\C#\Winform Applications\CRUD_WITH_LISTBOX\CRUD_WITH_LISTBOX\obj\Debug\CRUD_WITH_LISTBOX.csproj.SuggestedBindingRedirects.cache
+C:\C#\Winform Applications\CRUD_WITH_LISTBOX\CRUD_WITH_LISTBOX\obj\Debug\CRUD_WITH_LISTBOX.Form1.resources
+C:\C#\Winform Applications\CRUD_WITH_LISTBOX\CRUD_WITH_LISTBOX\obj\Debug\CRUD_WITH_LISTBOX.Properties.Resources.resources
+C:\C#\Winform Applications\CRUD_WITH_LISTBOX\CRUD_WITH_LISTBOX\obj\Debug\CRUD_WITH_LISTBOX.csproj.GenerateResource.cache
+C:\C#\Winform Applications\CRUD_WITH_LISTBOX\CRUD_WITH_LISTBOX\obj\Debug\CRUD_WITH_LISTBOX.csproj.CoreCompileInputs.cache
+C:\C#\Winform Applications\CRUD_WITH_LISTBOX\CRUD_WITH_LISTBOX\obj\Debug\CRUD_WITH_LISTBOX.exe
+C:\C#\Winform Applications\CRUD_WITH_LISTBOX\CRUD_WITH_LISTBOX\obj\Debug\CRUD_WITH_LISTBOX.pdb

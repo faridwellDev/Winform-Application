@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AUTO_COMPLETE_TEXTBOX", "AUTO_COMPLETE_TEXTBOX\AUTO_COMPLETE_TEXTBOX.csproj", "{C8AAD549-53DB-42F4-AAEA-6EB7A55727AA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AUTO_COMPLETE_TB", "AUTO_COMPLETE_TB\AUTO_COMPLETE_TB.vdproj", "{8B17AD11-B113-460E-BFE6-AE631519CCD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8AAD549-53DB-42F4-AAEA-6EB7A55727AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8AAD549-53DB-42F4-AAEA-6EB7A55727AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8AAD549-53DB-42F4-AAEA-6EB7A55727AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8AAD549-53DB-42F4-AAEA-6EB7A55727AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B17AD11-B113-460E-BFE6-AE631519CCD1}.Debug|Any CPU.ActiveCfg = Debug
+		{8B17AD11-B113-460E-BFE6-AE631519CCD1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0522D9B8-F9A0-4AF9-8D58-378AF361D34C}
+	EndGlobalSection
+EndGlobal

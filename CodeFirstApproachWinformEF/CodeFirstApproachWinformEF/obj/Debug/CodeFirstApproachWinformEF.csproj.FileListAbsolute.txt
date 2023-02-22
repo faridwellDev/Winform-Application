@@ -1,0 +1,16 @@
+C:\C#\Winform Applications\CodeFirstApproachWinformEF\CodeFirstApproachWinformEF\bin\Debug\CodeFirstApproachWinformEF.exe.config
+C:\C#\Winform Applications\CodeFirstApproachWinformEF\CodeFirstApproachWinformEF\bin\Debug\CodeFirstApproachWinformEF.exe
+C:\C#\Winform Applications\CodeFirstApproachWinformEF\CodeFirstApproachWinformEF\bin\Debug\CodeFirstApproachWinformEF.pdb
+C:\C#\Winform Applications\CodeFirstApproachWinformEF\CodeFirstApproachWinformEF\bin\Debug\EntityFramework.dll
+C:\C#\Winform Applications\CodeFirstApproachWinformEF\CodeFirstApproachWinformEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\Winform Applications\CodeFirstApproachWinformEF\CodeFirstApproachWinformEF\bin\Debug\EntityFramework.xml
+C:\C#\Winform Applications\CodeFirstApproachWinformEF\CodeFirstApproachWinformEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\Winform Applications\CodeFirstApproachWinformEF\CodeFirstApproachWinformEF\obj\Debug\CodeFirstApproachWinformEF.csproj.AssemblyReference.cache
+C:\C#\Winform Applications\CodeFirstApproachWinformEF\CodeFirstApproachWinformEF\obj\Debug\CodeFirstApproachWinformEF.csproj.SuggestedBindingRedirects.cache
+C:\C#\Winform Applications\CodeFirstApproachWinformEF\CodeFirstApproachWinformEF\obj\Debug\CodeFirstApproachWinformEF.Form1.resources
+C:\C#\Winform Applications\CodeFirstApproachWinformEF\CodeFirstApproachWinformEF\obj\Debug\CodeFirstApproachWinformEF.Properties.Resources.resources
+C:\C#\Winform Applications\CodeFirstApproachWinformEF\CodeFirstApproachWinformEF\obj\Debug\CodeFirstApproachWinformEF.csproj.GenerateResource.cache
+C:\C#\Winform Applications\CodeFirstApproachWinformEF\CodeFirstApproachWinformEF\obj\Debug\CodeFirstApproachWinformEF.csproj.CoreCompileInputs.cache
+C:\C#\Winform Applications\CodeFirstApproachWinformEF\CodeFirstApproachWinformEF\obj\Debug\CodeFirstApproachWinformEF.csproj.CopyComplete
+C:\C#\Winform Applications\CodeFirstApproachWinformEF\CodeFirstApproachWinformEF\obj\Debug\CodeFirstApproachWinformEF.exe
+C:\C#\Winform Applications\CodeFirstApproachWinformEF\CodeFirstApproachWinformEF\obj\Debug\CodeFirstApproachWinformEF.pdb

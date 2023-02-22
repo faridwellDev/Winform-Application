@@ -1,0 +1,11 @@
+C:\C#\Winform Applications\TOTAL\TOTAL\bin\Debug\TOTAL.exe.config
+C:\C#\Winform Applications\TOTAL\TOTAL\bin\Debug\TOTAL.exe
+C:\C#\Winform Applications\TOTAL\TOTAL\bin\Debug\TOTAL.pdb
+C:\C#\Winform Applications\TOTAL\TOTAL\obj\Debug\TOTAL.csproj.AssemblyReference.cache
+C:\C#\Winform Applications\TOTAL\TOTAL\obj\Debug\TOTAL.csproj.SuggestedBindingRedirects.cache
+C:\C#\Winform Applications\TOTAL\TOTAL\obj\Debug\TOTAL.Form1.resources
+C:\C#\Winform Applications\TOTAL\TOTAL\obj\Debug\TOTAL.Properties.Resources.resources
+C:\C#\Winform Applications\TOTAL\TOTAL\obj\Debug\TOTAL.csproj.GenerateResource.cache
+C:\C#\Winform Applications\TOTAL\TOTAL\obj\Debug\TOTAL.csproj.CoreCompileInputs.cache
+C:\C#\Winform Applications\TOTAL\TOTAL\obj\Debug\TOTAL.exe
+C:\C#\Winform Applications\TOTAL\TOTAL\obj\Debug\TOTAL.pdb

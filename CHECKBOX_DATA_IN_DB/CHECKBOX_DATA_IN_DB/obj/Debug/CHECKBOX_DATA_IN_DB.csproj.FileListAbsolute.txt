@@ -1,0 +1,11 @@
+C:\C#\Winform Applications\CHECKBOX_DATA_IN_DB\CHECKBOX_DATA_IN_DB\bin\Debug\CHECKBOX_DATA_IN_DB.exe.config
+C:\C#\Winform Applications\CHECKBOX_DATA_IN_DB\CHECKBOX_DATA_IN_DB\bin\Debug\CHECKBOX_DATA_IN_DB.exe
+C:\C#\Winform Applications\CHECKBOX_DATA_IN_DB\CHECKBOX_DATA_IN_DB\bin\Debug\CHECKBOX_DATA_IN_DB.pdb
+C:\C#\Winform Applications\CHECKBOX_DATA_IN_DB\CHECKBOX_DATA_IN_DB\obj\Debug\CHECKBOX_DATA_IN_DB.csproj.AssemblyReference.cache
+C:\C#\Winform Applications\CHECKBOX_DATA_IN_DB\CHECKBOX_DATA_IN_DB\obj\Debug\CHECKBOX_DATA_IN_DB.csproj.SuggestedBindingRedirects.cache
+C:\C#\Winform Applications\CHECKBOX_DATA_IN_DB\CHECKBOX_DATA_IN_DB\obj\Debug\CHECKBOX_DATA_IN_DB.Form1.resources
+C:\C#\Winform Applications\CHECKBOX_DATA_IN_DB\CHECKBOX_DATA_IN_DB\obj\Debug\CHECKBOX_DATA_IN_DB.Properties.Resources.resources
+C:\C#\Winform Applications\CHECKBOX_DATA_IN_DB\CHECKBOX_DATA_IN_DB\obj\Debug\CHECKBOX_DATA_IN_DB.csproj.GenerateResource.cache
+C:\C#\Winform Applications\CHECKBOX_DATA_IN_DB\CHECKBOX_DATA_IN_DB\obj\Debug\CHECKBOX_DATA_IN_DB.csproj.CoreCompileInputs.cache
+C:\C#\Winform Applications\CHECKBOX_DATA_IN_DB\CHECKBOX_DATA_IN_DB\obj\Debug\CHECKBOX_DATA_IN_DB.exe
+C:\C#\Winform Applications\CHECKBOX_DATA_IN_DB\CHECKBOX_DATA_IN_DB\obj\Debug\CHECKBOX_DATA_IN_DB.pdb

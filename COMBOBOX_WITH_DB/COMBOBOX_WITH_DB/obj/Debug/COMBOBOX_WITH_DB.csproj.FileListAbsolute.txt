@@ -1,0 +1,11 @@
+C:\C#\Winform Applications\COMBOBOX_WITH_DB\COMBOBOX_WITH_DB\bin\Debug\COMBOBOX_WITH_DB.exe.config
+C:\C#\Winform Applications\COMBOBOX_WITH_DB\COMBOBOX_WITH_DB\bin\Debug\COMBOBOX_WITH_DB.exe
+C:\C#\Winform Applications\COMBOBOX_WITH_DB\COMBOBOX_WITH_DB\bin\Debug\COMBOBOX_WITH_DB.pdb
+C:\C#\Winform Applications\COMBOBOX_WITH_DB\COMBOBOX_WITH_DB\obj\Debug\COMBOBOX_WITH_DB.csproj.AssemblyReference.cache
+C:\C#\Winform Applications\COMBOBOX_WITH_DB\COMBOBOX_WITH_DB\obj\Debug\COMBOBOX_WITH_DB.csproj.SuggestedBindingRedirects.cache
+C:\C#\Winform Applications\COMBOBOX_WITH_DB\COMBOBOX_WITH_DB\obj\Debug\COMBOBOX_WITH_DB.Form1.resources
+C:\C#\Winform Applications\COMBOBOX_WITH_DB\COMBOBOX_WITH_DB\obj\Debug\COMBOBOX_WITH_DB.Properties.Resources.resources
+C:\C#\Winform Applications\COMBOBOX_WITH_DB\COMBOBOX_WITH_DB\obj\Debug\COMBOBOX_WITH_DB.csproj.GenerateResource.cache
+C:\C#\Winform Applications\COMBOBOX_WITH_DB\COMBOBOX_WITH_DB\obj\Debug\COMBOBOX_WITH_DB.csproj.CoreCompileInputs.cache
+C:\C#\Winform Applications\COMBOBOX_WITH_DB\COMBOBOX_WITH_DB\obj\Debug\COMBOBOX_WITH_DB.exe
+C:\C#\Winform Applications\COMBOBOX_WITH_DB\COMBOBOX_WITH_DB\obj\Debug\COMBOBOX_WITH_DB.pdb

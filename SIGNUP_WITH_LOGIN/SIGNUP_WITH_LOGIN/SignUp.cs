@@ -364,5 +364,10 @@ namespace SIGNUP_WITH_LOGIN
             pass.Clear();
             cpass.Clear();
         }
+
+        private void SignUp_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

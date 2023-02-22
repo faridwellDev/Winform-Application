@@ -10,3 +10,4 @@ C:\C#\Winform Applications\SIGNUP_WITH_LOGIN\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_
 C:\C#\Winform Applications\SIGNUP_WITH_LOGIN\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.csproj.CoreCompileInputs.cache
 C:\C#\Winform Applications\SIGNUP_WITH_LOGIN\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.exe
 C:\C#\Winform Applications\SIGNUP_WITH_LOGIN\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.pdb
+C:\C#\Winform Applications\SIGNUP_WITH_LOGIN\SIGNUP_WITH_LOGIN\obj\Debug\SIGNUP_WITH_LOGIN.STUDENT_DASHBOARD.resources

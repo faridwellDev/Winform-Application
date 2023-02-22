@@ -45,6 +45,10 @@ namespace SIGNUP_WITH_LOGIN
             if(rd.HasRows)
             {
                 MessageBox.Show("Login Successful", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                this.Hide();
+
+                STUDENT_DASHBOARD f1 = new STUDENT_DASHBOARD();
+                f1.Show();
             }
             else
             {
@@ -64,6 +68,18 @@ namespace SIGNUP_WITH_LOGIN
             {
                 textBox2.UseSystemPasswordChar = true;
             }
+        }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Login_VisibleChanged(object sender, EventArgs e)
+        {
+            textBox1.Clear();
+            textBox2.Clear();
+            textBox1.Focus();
         }
     }
 }

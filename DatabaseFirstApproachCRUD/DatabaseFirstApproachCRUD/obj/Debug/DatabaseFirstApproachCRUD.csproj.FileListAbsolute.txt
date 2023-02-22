@@ -1,0 +1,16 @@
+C:\C#\Winform Applications\DatabaseFirstApproachCRUD\DatabaseFirstApproachCRUD\bin\Debug\DatabaseFirstApproachCRUD.exe.config
+C:\C#\Winform Applications\DatabaseFirstApproachCRUD\DatabaseFirstApproachCRUD\bin\Debug\DatabaseFirstApproachCRUD.exe
+C:\C#\Winform Applications\DatabaseFirstApproachCRUD\DatabaseFirstApproachCRUD\bin\Debug\DatabaseFirstApproachCRUD.pdb
+C:\C#\Winform Applications\DatabaseFirstApproachCRUD\DatabaseFirstApproachCRUD\obj\Debug\DatabaseFirstApproachCRUD.csproj.AssemblyReference.cache
+C:\C#\Winform Applications\DatabaseFirstApproachCRUD\DatabaseFirstApproachCRUD\obj\Debug\DatabaseFirstApproachCRUD.csproj.SuggestedBindingRedirects.cache
+C:\C#\Winform Applications\DatabaseFirstApproachCRUD\DatabaseFirstApproachCRUD\obj\Debug\DatabaseFirstApproachCRUD.Form1.resources
+C:\C#\Winform Applications\DatabaseFirstApproachCRUD\DatabaseFirstApproachCRUD\obj\Debug\DatabaseFirstApproachCRUD.Properties.Resources.resources
+C:\C#\Winform Applications\DatabaseFirstApproachCRUD\DatabaseFirstApproachCRUD\obj\Debug\DatabaseFirstApproachCRUD.csproj.GenerateResource.cache
+C:\C#\Winform Applications\DatabaseFirstApproachCRUD\DatabaseFirstApproachCRUD\obj\Debug\DatabaseFirstApproachCRUD.csproj.CoreCompileInputs.cache
+C:\C#\Winform Applications\DatabaseFirstApproachCRUD\DatabaseFirstApproachCRUD\obj\Debug\DatabaseFirstApproachCRUD.exe
+C:\C#\Winform Applications\DatabaseFirstApproachCRUD\DatabaseFirstApproachCRUD\obj\Debug\DatabaseFirstApproachCRUD.pdb
+C:\C#\Winform Applications\DatabaseFirstApproachCRUD\DatabaseFirstApproachCRUD\bin\Debug\EntityFramework.dll
+C:\C#\Winform Applications\DatabaseFirstApproachCRUD\DatabaseFirstApproachCRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\Winform Applications\DatabaseFirstApproachCRUD\DatabaseFirstApproachCRUD\bin\Debug\EntityFramework.xml
+C:\C#\Winform Applications\DatabaseFirstApproachCRUD\DatabaseFirstApproachCRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\Winform Applications\DatabaseFirstApproachCRUD\DatabaseFirstApproachCRUD\obj\Debug\DatabaseFirstApproachCRUD.csproj.CopyComplete

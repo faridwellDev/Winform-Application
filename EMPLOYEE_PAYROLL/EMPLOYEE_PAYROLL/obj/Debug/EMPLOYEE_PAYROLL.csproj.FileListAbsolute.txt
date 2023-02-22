@@ -1,0 +1,11 @@
+C:\C#\Winform Applications\EMPLOYEE_PAYROLL\EMPLOYEE_PAYROLL\bin\Debug\EMPLOYEE_PAYROLL.exe.config
+C:\C#\Winform Applications\EMPLOYEE_PAYROLL\EMPLOYEE_PAYROLL\bin\Debug\EMPLOYEE_PAYROLL.exe
+C:\C#\Winform Applications\EMPLOYEE_PAYROLL\EMPLOYEE_PAYROLL\bin\Debug\EMPLOYEE_PAYROLL.pdb
+C:\C#\Winform Applications\EMPLOYEE_PAYROLL\EMPLOYEE_PAYROLL\obj\Debug\EMPLOYEE_PAYROLL.csproj.AssemblyReference.cache
+C:\C#\Winform Applications\EMPLOYEE_PAYROLL\EMPLOYEE_PAYROLL\obj\Debug\EMPLOYEE_PAYROLL.csproj.SuggestedBindingRedirects.cache
+C:\C#\Winform Applications\EMPLOYEE_PAYROLL\EMPLOYEE_PAYROLL\obj\Debug\EMPLOYEE_PAYROLL.Form1.resources
+C:\C#\Winform Applications\EMPLOYEE_PAYROLL\EMPLOYEE_PAYROLL\obj\Debug\EMPLOYEE_PAYROLL.Properties.Resources.resources
+C:\C#\Winform Applications\EMPLOYEE_PAYROLL\EMPLOYEE_PAYROLL\obj\Debug\EMPLOYEE_PAYROLL.csproj.GenerateResource.cache
+C:\C#\Winform Applications\EMPLOYEE_PAYROLL\EMPLOYEE_PAYROLL\obj\Debug\EMPLOYEE_PAYROLL.csproj.CoreCompileInputs.cache
+C:\C#\Winform Applications\EMPLOYEE_PAYROLL\EMPLOYEE_PAYROLL\obj\Debug\EMPLOYEE_PAYROLL.exe
+C:\C#\Winform Applications\EMPLOYEE_PAYROLL\EMPLOYEE_PAYROLL\obj\Debug\EMPLOYEE_PAYROLL.pdb

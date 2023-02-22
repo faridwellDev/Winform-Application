@@ -400,6 +400,7 @@
             this.Name = "SignUp";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "SIGNUP";
+            this.Load += new System.EventHandler(this.SignUp_Load);
             this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.SignUp_KeyPress);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
